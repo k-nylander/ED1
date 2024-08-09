@@ -12,3 +12,5 @@ Basta colocar o arquivo ".h" da estrutura na mesma pasta do código. Se o arquiv
 //Terminando
 #include "Grafos.h";
 ```
+
+### Ainda não está completo 
